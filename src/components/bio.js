@@ -40,6 +40,8 @@ function Bio() {
             <p>
               Written by <strong>{author}</strong> who lives and works in San
               Francisco building useful things.
+              {` `}
+            
             </p>
           </div>
         )
